@@ -2,6 +2,6 @@
 
 ## Сделана на CSS + HTML
 
-https://elenafro.github.io/my_work/
+https://elenafro.github.io/intensiv/
 
 ~~Frolova Elena~~
